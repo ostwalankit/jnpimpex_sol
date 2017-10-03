@@ -1,1 +1,1 @@
-worker:  bundle exec rake jobs:work
+web: sh target/bin/WebContent
