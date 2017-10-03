@@ -41,6 +41,7 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
+			    <mainclass>com.ornet.jnpimpex.core.servlet.SendEmailServlet</mainclass>
                         <name>webapp</name>
                     </program>
                 </programs>
